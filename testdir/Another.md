@@ -4,5 +4,5 @@
 
 Oh look, it's a picture:
 
-(IMG_9047.jpg)
+![A pic](IMG_9047.jpg)
 
