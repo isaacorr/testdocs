@@ -9,6 +9,4 @@ Oh look, it's a picture:
 We can even do it with svg:
 
 
-![Like this]("Campus Future.svg")
-
 
